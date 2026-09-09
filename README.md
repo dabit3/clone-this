@@ -4,7 +4,15 @@ Clone an existing app under a new name. The agent discovers features, builds a s
 
 ## Install
 
-Copy `.devin/skills/clone-this/` to your agent's skill directory:
+Run this from your project directory:
+
+```sh
+npx skills add dabit3/clone-this
+```
+
+Choose your agent when prompted. Add `-g` to install for all projects.
+
+For manual installation, copy `.devin/skills/clone-this/` to your agent's skill directory:
 
 | Agent | Project path | User path (macOS/Linux) |
 | --- | --- | --- |
