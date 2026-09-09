@@ -1,5 +1,6 @@
 {
   "name": "clone-this",
   "version": "0.1.0",
-  "description": "Clone any app."
+  "description": "Clone any app.",
+  "skills": ".devin/skills"
 }
